@@ -4,9 +4,9 @@
   
   <link href="/index.html/atom.xml" rel="self"/>
   
-  <link href="https://xdd1990.github.io/index.html/"/>
+  <link href="https://xdd1990.github.io/"/>
   <updated>2017-08-18T03:04:24.609Z</updated>
-  <id>https://xdd1990.github.io/index.html/</id>
+  <id>https://xdd1990.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://xdd1990.github.io/index.html/2017/08/18/hello-world/"/>
-    <id>https://xdd1990.github.io/index.html/2017/08/18/hello-world/</id>
+    <link href="https://xdd1990.github.io/2017/08/18/hello-world/"/>
+    <id>https://xdd1990.github.io/2017/08/18/hello-world/</id>
     <published>2017-08-18T03:04:24.608Z</published>
     <updated>2017-08-18T03:04:24.609Z</updated>
     
