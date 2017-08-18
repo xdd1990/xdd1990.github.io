@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <link href="/index.html/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="https://xdd1990.github.io/"/>
   <updated>2017-08-18T03:04:24.609Z</updated>
